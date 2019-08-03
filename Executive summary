@@ -1,0 +1,9 @@
+The topic I chose was Internet architecture and I chose to research the subject. 
+The architectural thoughts that went into making the internet were on par with some of the greatest creations of all time. 
+The internet transfers over around 640 terabytes of data every minute; to have the ability to transfer 640 terabytes in just one minute must take a beautifully structured design. 
+The main base of the internet that connects every one, is IP/TCP.
+IP/TCP makes sure data that is transferred over the internet arrives at its intended destination, all in one piece and in order. 
+The thing that allows your device to recognize the server it is connecting to, is with its scheme, which is usually “http”. 
+The security  of your information is just as important as you having access to the internet, which is why secure browsers come in, such as “https”, because without the integrity of the internet, not as many people would use it.
+These three things, IP/TCP, http and security, are all the main aspects of the internet that support it, and without them, the internet wouldn’t be as big a role in our lives as it is today. 
+
